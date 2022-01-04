@@ -13,8 +13,8 @@
             return $s;
         }
 
-        $x = 3;
-        $y = 4;
+        $x = -4;
+        $y = 8;
         $r = soma ($x, $y);
         echo "A soma entre $x e $y e igual a $r";
     ?>
