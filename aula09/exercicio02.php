@@ -15,7 +15,7 @@
         $tipoVoto = "nao vota";
     }
     else  {
-        if  ($i  >=  16 &&  < 18)  {
+        if ($i >= 16 && $i < 18) {
             $tipoVoto = "voto opcional";
         }
         else  {
