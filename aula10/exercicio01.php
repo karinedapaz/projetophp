@@ -20,8 +20,10 @@
             case 3:
                 $r = sqrt($n); // $n ^ (1/2);
 
+            }
+
         echo "O resultado da operação solicitada foi <span class='foco'>$r</span>"
-        }
+        
 
     ?>
 </div>
